@@ -1,7 +1,10 @@
 li::marker {
-  color: hotpink;
+  color: #BA68C8 !important;
+  font-size: 2.5rem !important;
+  font-weight: bolder !important;
+  line-height: 1.5 !important;
+  text-transform: capitalize !important;
 }
-
 ul, ol {
   max-width: 320px;
 }
